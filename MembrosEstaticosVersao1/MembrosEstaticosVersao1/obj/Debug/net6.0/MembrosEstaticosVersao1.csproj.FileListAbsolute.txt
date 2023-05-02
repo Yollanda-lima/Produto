@@ -1,0 +1,15 @@
+C:\Users\y.barbosa\Desktop\Curso C#\MembrosEstaticosVersao1\MembrosEstaticosVersao1\bin\Debug\net6.0\MembrosEstaticosVersao1.exe
+C:\Users\y.barbosa\Desktop\Curso C#\MembrosEstaticosVersao1\MembrosEstaticosVersao1\bin\Debug\net6.0\MembrosEstaticosVersao1.deps.json
+C:\Users\y.barbosa\Desktop\Curso C#\MembrosEstaticosVersao1\MembrosEstaticosVersao1\bin\Debug\net6.0\MembrosEstaticosVersao1.runtimeconfig.json
+C:\Users\y.barbosa\Desktop\Curso C#\MembrosEstaticosVersao1\MembrosEstaticosVersao1\bin\Debug\net6.0\MembrosEstaticosVersao1.dll
+C:\Users\y.barbosa\Desktop\Curso C#\MembrosEstaticosVersao1\MembrosEstaticosVersao1\bin\Debug\net6.0\MembrosEstaticosVersao1.pdb
+C:\Users\y.barbosa\Desktop\Curso C#\MembrosEstaticosVersao1\MembrosEstaticosVersao1\obj\Debug\net6.0\MembrosEstaticosVersao1.csproj.AssemblyReference.cache
+C:\Users\y.barbosa\Desktop\Curso C#\MembrosEstaticosVersao1\MembrosEstaticosVersao1\obj\Debug\net6.0\MembrosEstaticosVersao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y.barbosa\Desktop\Curso C#\MembrosEstaticosVersao1\MembrosEstaticosVersao1\obj\Debug\net6.0\MembrosEstaticosVersao1.AssemblyInfoInputs.cache
+C:\Users\y.barbosa\Desktop\Curso C#\MembrosEstaticosVersao1\MembrosEstaticosVersao1\obj\Debug\net6.0\MembrosEstaticosVersao1.AssemblyInfo.cs
+C:\Users\y.barbosa\Desktop\Curso C#\MembrosEstaticosVersao1\MembrosEstaticosVersao1\obj\Debug\net6.0\MembrosEstaticosVersao1.csproj.CoreCompileInputs.cache
+C:\Users\y.barbosa\Desktop\Curso C#\MembrosEstaticosVersao1\MembrosEstaticosVersao1\obj\Debug\net6.0\MembrosEstaticosVersao1.dll
+C:\Users\y.barbosa\Desktop\Curso C#\MembrosEstaticosVersao1\MembrosEstaticosVersao1\obj\Debug\net6.0\refint\MembrosEstaticosVersao1.dll
+C:\Users\y.barbosa\Desktop\Curso C#\MembrosEstaticosVersao1\MembrosEstaticosVersao1\obj\Debug\net6.0\MembrosEstaticosVersao1.pdb
+C:\Users\y.barbosa\Desktop\Curso C#\MembrosEstaticosVersao1\MembrosEstaticosVersao1\obj\Debug\net6.0\MembrosEstaticosVersao1.genruntimeconfig.cache
+C:\Users\y.barbosa\Desktop\Curso C#\MembrosEstaticosVersao1\MembrosEstaticosVersao1\obj\Debug\net6.0\ref\MembrosEstaticosVersao1.dll
